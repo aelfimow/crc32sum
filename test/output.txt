@@ -1,0 +1,4 @@
+CRC32 data1.txt, 2 bytes: f8dc9549
+CRC32 data2.txt, 9 bytes: e0b2e9db
+CRC32 data3.txt, 27 bytes: fe4cbb59
+CRC32 data4.txt, 53 bytes: 3a1582ea
