@@ -22,4 +22,4 @@ linux: compile
 
 windows: compile
 	$(AS) crc32_func_windows.S ${ASFLAGS64} -o crc32_func_windows.o
-	$(CXX) main.o argv_parser.o crc32_func_windows.o -o crc32sum.exe
+	$(CXX) main.o argv_parser.o crc32_func_linux.o -o crc32sum.exe
